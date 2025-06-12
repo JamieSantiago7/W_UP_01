@@ -80,3 +80,7 @@ t=−5.43 with approximately 27 degrees of freedom, and the p-value was extremel
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The results show a strong relationship between position (LINE vs. SKILL) and the number of push-ups, with SKILL players performing more. However, this does not prove that being in a SKILL position causes higher push-up ability. Other factors like training, fitness level, or role requirements might explain the difference. More research would be needed to determine cause and effect.
+
+
+
