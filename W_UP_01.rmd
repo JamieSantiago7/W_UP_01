@@ -70,29 +70,10 @@ H₀: The mean number of push-ups is the same for LINE and SKILL groups.
 
 H₁: The mean number of push-ups differs between the groups.
 
-A Welch Two Sample t-test was used because it does not assume equal variances between groups. The test statistic was 
-𝑡
-=
-−
-5.43
-t=−5.43 with approximately 27 degrees of freedom, and the p-value was extremely small (
-9.42
-×
-10
-−
-6
-9.42×10 
-−6
- ), leading us to reject the null hypothesis. The 95% confidence interval for the difference in means was 
-[
-−
-44.91
-,
-−
-20.29
-]
+A Welch Two Sample t-test was used because it does not assume equal variances between groups. The test statistic was 𝑡= −5.43
+t=−5.43 with approximately 27 degrees of freedom, and the p-value was extremely small (9.42 × 10 − 6 9.42× 10 −6), leading us to reject the null hypothesis. The 95% confidence interval for the difference in means was 
+[−44.91,−20.29]
 [−44.91,−20.29], which excludes zero, confirming a significant difference. The mean push-ups were 17.13 for LINE and 49.73 for SKILL, showing that the SKILL group performed more. Assumptions of independence and approximate normality are met, making the test appropriate and reliable.
-
 
 
 # Discussion and Conclusion
