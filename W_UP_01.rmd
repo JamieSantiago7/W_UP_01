@@ -45,7 +45,7 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 boxplot(pushups~position,data=mydata)
 ```
 
-looking at my boxplot it looks like the skill players are doing way more pushups than the line players.
+When looking at my boxplot it looks like the skill players are doing way more pushups than the line players.
 
 ### Numerical Descriptive Results
 
