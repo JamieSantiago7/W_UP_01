@@ -64,7 +64,7 @@ It looks like the skill players are doing way more pushups than the line players
 t.test(pushups~position,data=mydata)
 ```
 
-he hypotheses tested were:
+The hypotheses tested were:
 
 H₀: The mean number of push-ups is the same for LINE and SKILL groups.
 
